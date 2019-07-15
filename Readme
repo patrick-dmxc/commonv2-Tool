@@ -1,0 +1,8 @@
+With this Tool you can Decompress the Loxone web/commonv2.agz File from Loxone FTP
+Modify some files (BackgroundImage, css, e.g.)
+And Compress the File again
+After Change the File on the FTP Server and Reboot the Miniserver, the changes Take effect on the Web-Browser
+
+This file has no effect to the Loxone Android and iOS Apps, only the Webbrowser can be Modyfied
+
+Backup your old commonv2.agz-File is essential
